@@ -1,6 +1,10 @@
-## [0.5.0](https://github.com/opal/opal-jquery/compare/v0.4.3...HEAD) Unreleased
+## [0.5.0](https://github.com/opal/opal-jquery/compare/v0.4.4...HEAD) Unreleased
 
 *see diff*
+
+## [0.4.4](https://github.com/opal/opal-jquery/compare/v0.4.3...v0.4.4) 2019-07-01
+
+*   Allow Opal 1.0 in gemspec
 
 ## [0.4.3](https://github.com/opal/opal-jquery/compare/v0.4.2...v0.4.3) 2018-09-07
 
